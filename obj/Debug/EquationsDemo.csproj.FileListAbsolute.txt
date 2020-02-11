@@ -1,0 +1,6 @@
+F:\dotNetProject\EquationsDemo\obj\Debug\EquationsDemo.csprojAssemblyReference.cache
+F:\dotNetProject\EquationsDemo\bin\Debug\EquationsDemo.exe.config
+F:\dotNetProject\EquationsDemo\bin\Debug\EquationsDemo.exe
+F:\dotNetProject\EquationsDemo\bin\Debug\EquationsDemo.pdb
+F:\dotNetProject\EquationsDemo\obj\Debug\EquationsDemo.exe
+F:\dotNetProject\EquationsDemo\obj\Debug\EquationsDemo.pdb
